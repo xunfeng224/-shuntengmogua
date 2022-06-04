@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "7b408302-6d10-4bcb-9011-6b19e6c05d19",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "规则 logo": {
+      "ver": "1.0.3",
+      "uuid": "dc74fbf8-19bb-4a4b-b71e-327abec8eb3a",
+      "rawTextureUuid": "7b408302-6d10-4bcb-9011-6b19e6c05d19",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -5.5,
+      "trimX": 168,
+      "trimY": 173,
+      "width": 707,
+      "height": 707,
+      "rawWidth": 1042,
+      "rawHeight": 1042,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

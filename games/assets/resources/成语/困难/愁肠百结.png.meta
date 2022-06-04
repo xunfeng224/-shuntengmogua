@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "85773b9b-5c19-4c56-8c7f-89ef07953c7e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "愁肠百结": {
+      "ver": "1.0.3",
+      "uuid": "40eef954-ce47-4d3e-b49e-2a0bd24f90f5",
+      "rawTextureUuid": "85773b9b-5c19-4c56-8c7f-89ef07953c7e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1077,
+      "height": 369,
+      "rawWidth": 1077,
+      "rawHeight": 369,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "73e60ff9-4390-49bd-8a0b-a826fc8aa838",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "钟灵毓秀": {
+      "ver": "1.0.3",
+      "uuid": "8b6ced6d-4618-4ab4-bc89-6601b1d76fda",
+      "rawTextureUuid": "73e60ff9-4390-49bd-8a0b-a826fc8aa838",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1077,
+      "height": 369,
+      "rawWidth": 1077,
+      "rawHeight": 369,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

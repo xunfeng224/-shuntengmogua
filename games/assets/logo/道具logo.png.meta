@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "2990d978-eb59-4bfe-8133-7e2c1d20433a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "道具logo": {
+      "ver": "1.0.3",
+      "uuid": "9cbf5642-0460-470b-b0c3-e79ef42e39b1",
+      "rawTextureUuid": "2990d978-eb59-4bfe-8133-7e2c1d20433a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 400,
+      "height": 400,
+      "rawWidth": 400,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

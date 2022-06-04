@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "24281a8e-3b02-4980-bf15-2e4b89077181",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "缘木求鱼": {
+      "ver": "1.0.3",
+      "uuid": "5b09b338-3410-495e-b617-dd0b5c5107e4",
+      "rawTextureUuid": "24281a8e-3b02-4980-bf15-2e4b89077181",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1077,
+      "height": 369,
+      "rawWidth": 1077,
+      "rawHeight": 369,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

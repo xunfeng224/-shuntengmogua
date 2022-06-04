@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "450a04a7-23fc-4277-81e6-e4a6483747b4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "邯郸学步": {
+      "ver": "1.0.3",
+      "uuid": "5d2f6764-3e31-491a-8a04-eff89fe90f90",
+      "rawTextureUuid": "450a04a7-23fc-4277-81e6-e4a6483747b4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1077,
+      "height": 369,
+      "rawWidth": 1077,
+      "rawHeight": 369,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

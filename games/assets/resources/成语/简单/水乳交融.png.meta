@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "d587c78e-6343-4b1e-8f6b-b648afa021f3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "水乳交融": {
+      "ver": "1.0.3",
+      "uuid": "3eea660d-e5cd-4cfb-9116-91e3dae0e76f",
+      "rawTextureUuid": "d587c78e-6343-4b1e-8f6b-b648afa021f3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1077,
+      "height": 369,
+      "rawWidth": 1077,
+      "rawHeight": 369,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

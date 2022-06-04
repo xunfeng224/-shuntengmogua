@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "647b8dbb-174e-4baf-9cf4-f20420748cb9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "触景生情": {
+      "ver": "1.0.3",
+      "uuid": "7f7794f3-53e9-4d87-8e36-447718d222de",
+      "rawTextureUuid": "647b8dbb-174e-4baf-9cf4-f20420748cb9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1077,
+      "height": 369,
+      "rawWidth": 1077,
+      "rawHeight": 369,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
